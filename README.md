@@ -24,6 +24,7 @@ git clone https://github.com/aRandomStranger/TelegramLoggingBot/
 
 # Getting started
 
+Create 2 new files named "loggingids.json" and "user.txt"
 Open the file "bot.py" and replace following IDs with your options:
 
 ```
@@ -31,7 +32,9 @@ API_TOKEN = 'YOUR TOKEN'
 ```
 This should be your Token received from Botfather.
 
-Also don't forget to replace the Debug Group ID & create a new file called "user.txt"
+Also don't forget to replace the Debug Group ID
+
+
 
 # Running the Bot
 
