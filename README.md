@@ -31,7 +31,7 @@ API_TOKEN = 'YOUR TOKEN'
 ```
 This should be your Token received from Botfather.
 
-Also don't forget to replace the Debug Group ID.
+Also don't forget to replace the Debug Group ID & create a new file called "user.txt"
 
 # Running the Bot
 
