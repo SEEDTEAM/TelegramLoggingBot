@@ -9,16 +9,16 @@ Let's start by installing everything you need.
 
 # Installation
 
-First of all, you need to install Python3 & the Python package manager
+First of all, you need to install Python2 & the Python package manager
 
 ```
-sudo apt-get install python3 python3-pip
+sudo apt-get install python2 python2-pip
 ```
 
 After that you need to install the pyTelegramBotAPI.
 
 ```
-sudo pip3 install pyTelegramBotAPI
+sudo pip2 install pyTelegramBotAPI
 ```
 Finally clone the repo
 
