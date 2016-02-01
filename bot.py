@@ -20,6 +20,9 @@ API_TOKEN = 'YOUR TOKEN'
 
 bot = telebot.TeleBot(API_TOKEN)
 
+with open('loggingids.json') as f:
+    loggingIDs = json.load(f)
+
 @bot.message_handler(func=lambda m: True, content_types=['new_chat_participant'])
 def on_user_joins(m):
 	cid = m.chat.id
