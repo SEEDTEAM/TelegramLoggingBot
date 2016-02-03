@@ -11,14 +11,11 @@ Let's start by installing everything you need.
 
 First of all, you need to install Python2 & the Python package manager
 
-```
-sudo apt-get install python2 python2-pip
-```
 
 After that you need to install the pyTelegramBotAPI.
 
 ```
-sudo pip2 install pyTelegramBotAPI
+sudo pip install pyTelegramBotAPI
 ```
 Finally clone the repo
 
