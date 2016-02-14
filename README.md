@@ -4,10 +4,12 @@ This Bot is written in Python with the help from the pyTelegramBotAPI.
 Test it at our official Telegram Bot:
 [@IchLoggeBot](https://telegram.me/IchLoggeBot)
 
+Powered by [SEEDTEAM](https://github.com/SEEDTEAM) ❤
+
 
 Let's start by installing everything you need.
 
-# Installation
+# Installation ❤
 
 First of all, you need to install Python2 & the Python package manager
 
@@ -23,7 +25,7 @@ Finally clone the repo
 git clone https://github.com/aRandomStranger/TelegramLoggingBot/
 ```
 
-# Getting started
+# Getting started ❤
 
 Create 2 new files named "loggingids.json" and "user.txt"
 Open the file "bot.py" and replace following IDs with your options:
@@ -37,7 +39,7 @@ Also don't forget to replace the Debug Group ID
 
 
 
-# Running the Bot
+# Running the Bot ❤
 
 You can one-time run the Bot with the command
 ```
@@ -49,7 +51,7 @@ Use something like screen to hold the Bot.
 ``` screen -S LoggingBot ```
 Then just retype the command and you are finished!
 
-# Special thanks to
+# Special thanks to these guys! ❤
 [@Edurolp](https://telegram.me/edurolp) - For helping with Debugging
 
 [@Gunny14](https://telegram.me/gunny14) - For helping users & being staff
@@ -60,8 +62,10 @@ Then just retype the command and you are finished!
 
 [@eternnoir](https://github.com/eternnoir/pyTelegramBotAPI) - for creating this loveful API!
 
+[@imandaneshi](https://telegram.me/imandaneshi) - For helping users, being staff & everything else :P
 
-# Updates
+
+# Updates ❤
 
 Don't miss any Updates - Subscribe to our Channel!
 [@IchLoggeBotNews](https://telegram.me/IchLoggeBotNews) - Updates in English Language
